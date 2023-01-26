@@ -448,7 +448,7 @@ const className = cx(classes);
 > ⚠️ Warning: The examples below are purely demonstrative and haven't been tested thoroughly (yet)
 
 <details>
-  <summary>Astro</summary>
+  <summary>Astro (with Tailwind)</summary>
 
 ```astro
 ---
